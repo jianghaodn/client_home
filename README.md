@@ -9,7 +9,7 @@
 3、install完成以后，如果没报错，运行 npm run serve即可访问
 
 
-推荐使用vscode完成操作
+推荐使用vscode完成操作，浏览器推荐firefox或者chrome等，360访问会出现异常
 
 附：node.js v14下载地址
 https://nodejs.org/en/blog/release/v14.21.1/
